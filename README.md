@@ -1,7 +1,7 @@
 # FIREXUSERBOT
 <p align="center">
    
-   <a href="https://github.com/TeamEviral/Fire-X">
+   <a href="https://github.com/noobadtiy/Fire-X">
       <img src="https://telegra.ph/file/b76f4a906f05c059e046a.jpg" alt="firex", height="300px",width="500px">
    </a>
    <br>
